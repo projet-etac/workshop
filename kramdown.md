@@ -1,9 +1,5 @@
-**Table des matières** (créée automatiquement)
-* TOC
-{:toc}
-
-Voyez le fichier source de ce billet pour découvrir les notations **Markdown** permettant d'obtenir le *résultat affiché*. Consultez aussi le document [Kramdown Quick reference](https://kramdown.gettalong.org/quickref.html){: target='_blank'}.  
-Et vous pourrez également vous référer à la notice du [thème par défaut de Jekyll](https://github.com/jekyll/minima){: target='_blank'}, employé ici : **Minima**.
+Voyez le fichier source de ce billet pour découvrir les notations **Markdown** permettant d'obtenir le *résultat affiché*. Consultez aussi le document [Kramdown Quick reference](https://kramdown.gettalong.org/quickref.html).  
+Et vous pourrez également vous référer à la notice du [thème par défaut de Jekyll](https://github.com/jekyll/minima), employé ici : **Minima**.
 **N. B.** il est également possible d'intégrer directement du code HTML dans les pages. 
 
 ## Mise en forme élémentaire
@@ -119,4 +115,4 @@ Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet b
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Téléchargez le [Guide du média lycéen]({{site.url}}/assets/guide_lyceen.pdf).
 
-**P.S.** Pour voir la liste des icônes disponibles, consultez la page [FontAwesome](http://fontawesome.io/cheatsheet/){: target="_blank"}.
+**P.S.** Pour voir la liste des icônes disponibles, consultez la page [FontAwesome](http://fontawesome.io/cheatsheet/).
