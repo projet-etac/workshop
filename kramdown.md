@@ -1,5 +1,5 @@
 Voyez le fichier source de ce billet pour découvrir les notations **Markdown** permettant d'obtenir le *résultat affiché*. Consultez aussi le document [Kramdown Quick reference](https://kramdown.gettalong.org/quickref.html).  
-Et vous pourrez également vous référer à la notice du [thème par défaut de Jekyll](https://github.com/jekyll/minima){: target='_blank'}, employé ici : **Minima**.
+Et vous pourrez également vous référer à la notice du [thème par défaut de Jekyll](https://github.com/jekyll/minima), employé ici : **Minima**.
 **N. B.** il est également possible d'intégrer directement du code HTML dans les pages. 
 
 ## Mise en forme élémentaire
